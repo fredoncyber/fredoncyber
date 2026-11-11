@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">FredON Cybersecurity Portfolio</title><desc id="desc">Navy and teal banner for Fred Ofori-Nkwagyie, focusing on GRC engineering and IT/OT security.</desc>
+<defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0b1424"/><stop offset="1" stop-color="#103b4a"/></linearGradient><pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M38 0H0V38" fill="none" stroke="#5ee1d1" stroke-opacity=".075"/></pattern></defs>
+<rect width="1200" height="300" fill="url(#bg)"/><rect width="1200" height="300" fill="url(#grid)"/>
+<path d="M780 30L860 90L1000 70L1090 143L1170 117" stroke="#56d9ca" stroke-width="2" stroke-opacity=".38" fill="none"/><path d="M760 240L860 190L990 210L1090 143" stroke="#56d9ca" stroke-width="2" stroke-opacity=".26" fill="none"/>
+<g fill="#61d9ca"><circle cx="860" cy="90" r="5"/><circle cx="1000" cy="70" r="5"/><circle cx="1090" cy="143" r="5"/><circle cx="990" cy="210" r="5"/></g>
+<path d="M1045 84l58 23v43c0 38-20 62-58 80-38-18-58-42-58-80v-43z" fill="#102f40" stroke="#6ce1d5" stroke-width="3"/><path d="M1018 153l19 19 37-42" stroke="#6ce1d5" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="62" y="78" fill="#72e5d9" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="700" letter-spacing="5">FREDON / CYBERSECURITY PORTFOLIO</text>
+<text x="60" y="150" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="48" font-weight="700">Fred Ofori-Nkwagyie</text>
+<text x="62" y="205" fill="#c8dee9" font-family="Arial,Helvetica,sans-serif" font-size="24">GRC Engineering  |  IT/OT Security  |  Risk &amp; Automation</text>
+<path d="M62 235h515" stroke="#58d6c7" stroke-width="3"/><text x="62" y="269" fill="#a9c9d2" font-family="Arial,Helvetica,sans-serif" font-size="16">Evidence-driven security • Resilient operations • Repeatable controls</text>
+</svg>
