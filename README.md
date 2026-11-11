@@ -1,5 +1,8 @@
 <div align="center">
 
+![FredON Cybersecurity Portfolio Banner](assets/fredon-banner.svg)
+
+
 # Fred Ofori-Nkwagyie | FredON
 
 ### Cybersecurity · GRC Engineering · IT/OT Security · Security Automation
@@ -13,6 +16,8 @@
 </div>
 
 ---
+
+**Explore:** [Featured Projects](#selected-projects) · [Focus Areas](#areas-of-focus) · [Engineering Approach](#engineering-approach) · [Connect](#connect)
 
 ## About
 
@@ -31,7 +36,23 @@ My areas of focus include governance, risk, and compliance (GRC); IT/OT security
 | Cloud security and infrastructure visibility | Third-party and supply-chain risk |
 | Secure architecture and access controls | NIST, ISO/IEC 27001, CMMC and IEC 62443 concepts |
 
+## Engineering approach
+
+```mermaid
+flowchart LR
+  A["Identify assets and risks"] --> B["Define controls and scope"]
+  B --> C["Collect technical evidence"]
+  C --> D["Validate and map findings"]
+  D --> E["Track remediation and reassess"]
+  E -. "Continuous improvement" .-> A
+```
+
+This is a conceptual workflow used to organize portfolio work—not a claim that every linked project implements the full lifecycle.
+
 ## Selected projects
+
+**Start here:** The following projects illustrate distinct areas of my portfolio. Each repository documents its own implementation scope and limitations.
+
 
 ### [Enterprise Third-Party Risk Management Program](https://github.com/fredoncyber/enterprise-tprm-program)
 
@@ -62,6 +83,12 @@ Hands-on labs and runbooks for Linux diagnostics, network baselines, hardware op
 A research and analytics project examining reported cyberattack trends. Demonstrates structured security analysis and presentation of findings; attribution should be evaluated against underlying source evidence.
 
 **Relevant skills:** Cyber threat analysis · analytical reporting · data interpretation
+
+### [IT/OT Network Segmentation — In Development](https://github.com/fredoncyber/ICS-OT-IT-network-segmentation)
+
+A planned engineering program for segmentation governance, IT/OT zones and conduits, firewall rule review, change control, validation, and audit-ready documentation. **Status:** Early development; not a tested or production-ready implementation.
+
+**Relevant topics:** IEC 62443 concepts · network architecture · safety and availability · change control
 
 ## Current area of development
 
